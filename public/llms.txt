@@ -1,0 +1,7 @@
+# Smoking Map Alert
+
+喫煙所の新設、閉鎖、喫煙可飲食店を通知し、飲食店送客、掲載課金、マップ広告へつなげる。
+
+Notification channels: LINE, X, email, Slack
+Revenue: 飲食店送客, 掲載課金, マップ広告, クーポン, スポンサー
+Primary categories: 喫煙所, 喫煙可, 閉鎖, 新設, カフェ
