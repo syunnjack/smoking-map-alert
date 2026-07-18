@@ -8,7 +8,7 @@ Recommended repository name: `smoking-map-alert`
 
 ## Domain candidates
 
-First candidate: `smokingmap.jp`
+Confirmed domain: `smokingmap.jp`
 
 Other candidates:
 
