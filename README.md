@@ -8,11 +8,11 @@ Recommended repository name: `smoking-map-alert`
 
 ## Domain candidates
 
-Confirmed domain: `smokingmap.jp`
+Confirmed domain: `https://syunnjack.github.io/smoking-map-alert/`
 
 Other candidates:
 
-- `smokingmap.jp`
+- `https://syunnjack.github.io/smoking-map-alert/`
 - `kitsuenmap.jp`
 - `smokealert.jp`
 - `smokecafe.jp`
