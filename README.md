@@ -8,11 +8,10 @@ Recommended repository name: `smoking-map-alert`
 
 ## Domain candidates
 
-Confirmed domain: `smokingmap.jp`
+Confirmed domain: `smokingmap.net`
 
 Other candidates:
 
-- `smokingmap.jp`
 - `kitsuenmap.jp`
 - `smokealert.jp`
 - `smokecafe.jp`
