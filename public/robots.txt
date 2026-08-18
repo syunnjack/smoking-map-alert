@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://smoking-map-alert.vercel.app/sitemap.xml
+Sitemap: https://smokingmap.net/sitemap.xml
