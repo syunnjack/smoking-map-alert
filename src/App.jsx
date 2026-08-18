@@ -144,7 +144,7 @@ function App() {
           <p className="lead">喫煙所の新設、閉鎖、喫煙可飲食店を通知し、飲食店送客、掲載課金、マップ広告へつなげる。</p>
         </div>
         <aside className="hero-panel">
-          <span>smokingmap.jp / smoking-map-alert</span>
+          <span>smokingmap.net / smoking-map-alert</span>
           <strong>通知の瞬間に、予約・掲載・クーポン・有料導線へつなげる。</strong>
           <p>LINE、X、メール、Slackを入口に、UGCで鮮度を作りながら収益導線を太くします。</p>
         </aside>
